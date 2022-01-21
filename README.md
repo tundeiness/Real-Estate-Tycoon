@@ -1,5 +1,20 @@
 # Real-Estate-Tycoon
 
+A Real Estate Investment Trust based in New York invests in houses apartments or condo
+They try to predict a fair transaction price of a property before it's sold. 
+this is used to calibrate the internal pricing and to keep a tab on market prices.
+REIT currently uses a 3rd party appraisal service. 
+REIT found out that the estimates given by inexperienced appraisers were off the 
+mark by $70k on average. 
+I am to build a model to predict transaction prices with an average error of under $70.
+
+## Specifics
+- Deliverable : Trained Model File
+- Machine Learning Task: Regression
+- Target Variable: Transaction Price
+-Win Condition: Mean Absolute Error < $70k
+
+## Project Scoping:
 - implementing the entire applied machine learning workflow from start to finish 
   and focus on how they work together.
 
@@ -10,6 +25,8 @@
   an effective model using machine learning. 
 
 - to practice using the entire suite of machine learning tools at your disposal.
+
+- 5 core components of the Machine Learning workflow. 
 
 
 ## Exploratory Analysis
