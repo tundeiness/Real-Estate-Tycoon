@@ -1,18 +1,17 @@
 # Real-Estate-Tycoon
 
-A Real Estate Investment Trust based in New York invests in houses apartments or condo
+A Real Estate Investment Trust based in New York invests in houses apartments/condo
 They try to predict a fair transaction price of a property before it's sold. 
-this is used to calibrate the internal pricing and to keep a tab on market prices.
-REIT currently uses a 3rd party appraisal service. 
-REIT found out that the estimates given by inexperienced appraisers were off the 
-mark by $70k on average. 
-I am to build a model to predict transaction prices with an average error of under $70.
+This is used to calibrate the internal pricing and to keep a tab on market prices.
+REIT currently uses a 3rd party appraisal service and they found out that the estimates
+given by inexperienced appraisers were off the mark by $70k on average. 
+Task: to build a model to predict transaction prices with an average error of under $70k.
 
 ## Specifics
 - Deliverable : Trained Model File
 - Machine Learning Task: Regression
 - Target Variable: Transaction Price
--Win Condition: Mean Absolute Error < $70k
+- Win Condition: Mean Absolute Error < $70k
 
 ## Project Scoping:
 - implementing the entire applied machine learning workflow from start to finish 
@@ -30,16 +29,15 @@ I am to build a model to predict transaction prices with an average error of und
 
 
 ## Exploratory Analysis
-### Exercise 1.1 - Back to Basics
+### Exercise 1.1 - Back to Basics: basic information about the dataset. 
 - Checking the Head and Tails of the dataset.
 
-### Exercise 1.2 - Distributions
+### Exercise 1.2 - Distribution of categorical and numerical features.
 - using Histograms
 
-
-### Exercise 1.3 - Segmentation
+### Exercise 1.3 - Segmentation: Observing relationship between categorical feature & numerical features.
 - Segmenting dataframes
-### Exercise 1.5 - Correlation Analysis 
+### Exercise 1.5 - Correlation: Observing relationships between Numeric features and other Numeric feature. 
 - using heatmap
   1. Change the background to white. This way, 0 correlation will show as white
   2. Annotate the cell with their correlations values
