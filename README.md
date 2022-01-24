@@ -30,7 +30,11 @@ Task: to build a model to predict transaction prices with an average error of un
 
 ## Exploratory Analysis
 ### Exercise 1.1 - Back to Basics: basic information about the dataset. 
-- Checking the Head and Tails of the dataset.
+- exploring basic information about the housing dataset.
+- plotting distributions of numeric and categorical features.
+- segmentation of the housing dataset by 'property_type'.
+- visualizing a heatmap of feature correlations.
+
 
 ### Exercise 1.2 - Distribution of categorical and numerical features.
 - using Histograms
