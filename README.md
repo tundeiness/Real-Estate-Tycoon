@@ -54,7 +54,7 @@ Task: to build a model to predict transaction prices with an average error of un
 ### Exercise 2.2 - Repairing Walls
 ### Exercise 2.3 - Music of Outliers
 - making violin plots of 'beds', 'sqft', 'lot_size'
-### Exercise 2.4 - Back to Basics
+### Exercise 2.4 - Inputting Missing values
 
 
 ## Feature Engineering
