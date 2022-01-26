@@ -50,7 +50,10 @@ Task: to build a model to predict transaction prices with an average error of un
 
 
 ## Data Cleaning
-### Exercise 1.1 - Back to Basics
+### Exercise 2.1 - Introduction
+### Exercise 2.2 - Back to Basics
+### Exercise 2.3 - Back to Basics
+### Exercise 2.4 - Back to Basics
 
 
 ## Feature Engineering
