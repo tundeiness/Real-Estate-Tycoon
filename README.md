@@ -31,18 +31,16 @@ Task: to build a model to predict transaction prices with an average error of un
 ## Exploratory Analysis
 ### Exercise 1.1 - Back to Basics: basic information about the dataset. 
 - exploring basic information about the housing dataset.
-- plotting distributions of numeric and categorical features.
-- segmentation of the housing dataset by 'property_type'.
-- visualizing a heatmap of feature correlations.
-
-
 ### Exercise 1.2 - Distribution of categorical and numerical features.
 - using Histograms
+- plotting distributions of numeric and categorical features.
 
 ### Exercise 1.3 - Segmentation: Observing relationship between categorical feature & numerical features.
 - Segmenting dataframes
+- segmentation of the housing dataset by 'property_type'.
 ### Exercise 1.5 - Correlation: Observing relationships between Numeric features and other Numeric feature. 
 - using heatmap
+- visualizing a heatmap of feature correlations.
   1. Change the background to white. This way, 0 correlation will show as white
   2. Annotate the cell with their correlations values
   3. Mask the top triangle (less visual clutter)
@@ -51,11 +49,14 @@ Task: to build a model to predict transaction prices with an average error of un
 
 ## Data Cleaning
 ### Exercise 2.1 - Introduction
+- check the dataset for duplicate and irrelevant observations.
 ### Exercise 2.2 - Repairing Walls
+- fixing various structural errors, such as mislabeled classes.
 ### Exercise 2.3 - Music of Outliers
 - making violin plots of 'beds', 'sqft', 'lot_size'
+- removing an outlier after plotting violin plots.
 ### Exercise 2.4 - Inputting Missing values
-
+- labelling missing data in the categorical features.
 
 ## Feature Engineering
 ### Exercise 1.1 - Back to Basics
