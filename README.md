@@ -59,9 +59,12 @@ Task: to build a model to predict transaction prices with an average error of un
 - labelling missing data in the categorical features.
 
 ## Feature Engineering
-### Exercise 1.1 - Back to Basics
+### Exercise 3.1 - Back to Basics
 
+### Exercise 3.2 - Back to Basics
 
+### Exercise 3.3 - Back to Basics
+### Exercise 3.4 - Back to Basics
 ## Regression Algorithms
 ### Exercise 1.1 - Back to Basics
 
