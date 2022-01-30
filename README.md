@@ -64,7 +64,9 @@ Task: to build a model to predict transaction prices with an average error of un
 ### Exercise 3.2 - Heuristics (Creating Interaction features)
 
 ### Exercise 3.3 - Heuristics II (grouping sparse classes)
-### Exercise 3.4 - Preparing Analytical Base Table
+### Exercise 3.4 - School Score heuristics
+
+### Exercise 3.5 - Sparse Roofs Heuristics
 ## Regression Algorithms
 ### Exercise 1.1 - Back to Basics
 
