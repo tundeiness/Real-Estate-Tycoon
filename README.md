@@ -69,6 +69,11 @@ Task: to build a model to predict transaction prices with an average error of un
 ### Exercise 3.5 - Sparse Roofs Heuristics
 
 ### Exercise 3.6 - Finalizing the A.B.T
+
+- made several indicator features from domain knowledge.
+- created the interaction feature 'property_age'.
+- grouped sparse classes in the 'exterior_walls' and 'roof' features.
+- encoded dummy variables and saved the final analytical base table.
 ## Regression Algorithms
 ### Exercise 1.1 - Back to Basics
 
