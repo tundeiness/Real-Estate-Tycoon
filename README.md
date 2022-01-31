@@ -60,24 +60,30 @@ Task: to build a model to predict transaction prices with an average error of un
 
 ## Feature Engineering
 ### Exercise 3.1 - Leveraging Domain Knowledge
-
+- making indicator features from domain knowledge.
 ### Exercise 3.2 - Heuristics (Creating Interaction features)
-
-### Exercise 3.3 - Heuristics II (grouping sparse classes)
-### Exercise 3.4 - School Score heuristics
-
-### Exercise 3.5 - Sparse Roofs Heuristics
-
-### Exercise 3.6 - Finalizing the A.B.T
-
-- made several indicator features from domain knowledge.
 - created the interaction feature 'property_age'.
+### Exercise 3.3 - Heuristics II (grouping sparse classes)
 - grouped sparse classes in the 'exterior_walls' and 'roof' features.
+### Exercise 3.4 - School Score heuristics
+- created school score feature from products of no. of schools series and median quality score series. 
+### Exercise 3.5 - Sparse Roofs Heuristics
+- grouping roof classes
+### Exercise 3.6 - Finalizing the A.B.T
 - encoded dummy variables and saved the final analytical base table.
 ## Regression Algorithms
-### Exercise 1.1 - Back to Basics
 
+### Exercise 4.1 - Back to Basics
+
+### Exercise 4.2 - Back to Basics
+
+### Exercise 4.3 - Back to Basics
+### Exercise 4.4 - Back to Basics
 
 ## Model Training
-### Exercise 1.1 - Back to Basics
+
+### Exercise 5.1 - Back to Basics
+### Exercise 5.2 - Back to Basics
+### Exercise 5.3 - Back to Basics
+### Exercise 5.4 - Back to Basics
 
