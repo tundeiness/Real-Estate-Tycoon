@@ -73,13 +73,17 @@ Task: to build a model to predict transaction prices with an average error of un
 - encoded dummy variables and saved the final analytical base table.
 ## Regression Algorithms
 
-### Exercise 4.1 - Back to Basics
+### Exercise 4.1 - Checkpoint
+- regression vs Overfitting
+### Exercise 4.2 - Lasso Regression
+- using regularisation to help select features and shrink coefficients.
 
-### Exercise 4.2 - Back to Basics
+### Exercise 4.3 - Ridge Regression
+- how ensembles can improve predictions by committee.
+- introduction to Lasso, Ridge, Random Forests, and Boosted Trees.
 
-### Exercise 4.3 - Back to Basics
-### Exercise 4.4 - Back to Basics
-
+### Exercise 4.4 - ElasticNets
+- Using Elastic-Net
 ## Model Training
 
 ### Exercise 5.1 - Back to Basics
