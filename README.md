@@ -88,6 +88,6 @@ Task: to build a model to predict transaction prices with an average error of un
 
 ### Exercise 5.1 - How to spend your Data: data as a limited resource
 ### Exercise 5.2 - Pre-processing and Pipelines
-### Exercise 5.3 - Tunning Hyperparameters
+### Exercise 5.3 - Tunning Hyper-parameters
 ### Exercise 5.4 - Model Selections
 
