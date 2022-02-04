@@ -84,10 +84,10 @@ Task: to build a model to predict transaction prices with an average error of un
 
 ### Exercise 4.4 - ElasticNets
 - Using Elastic-Net
-## Model Training
+## Model Training: Building Professional Grade Models
 
-### Exercise 5.1 - Back to Basics
-### Exercise 5.2 - Back to Basics
-### Exercise 5.3 - Back to Basics
-### Exercise 5.4 - Back to Basics
+### Exercise 5.1 - How to spend your Data
+### Exercise 5.2 - Pre-processing and Pipelines
+### Exercise 5.3 - Tunning Hyperparameters
+### Exercise 5.4 - Model Selections
 
