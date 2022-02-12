@@ -90,7 +90,15 @@ Task: to build a model to predict transaction prices with an average error of un
 - split dataset into separate training and test sets.
 ### Exercise 5.2 - Pre-processing and Pipelines
 - set up preprocessing pipelines.
-### Exercise 5.3 - Tunning Hyper-parameters
+### Exercise 5.3 - Tunning Hyper-parameters / Tree Pipelines
 - tune models using cross-validation.
-### Exercise 5.4 - Model Selections
-- evaluate models, selecting and saving the winner.
+### Exercise 5.4 - Hyperparameter Grids
+- declare hyperparameter grids for tree ensembles.
+
+### Exercise 5.5 - Model Dictionaries
+- save models in dictionary
+### Exercise 5.6 - Model Selection
+- plot winning model.
+
+### Exercise 5.7 - Saving the Model
+- save winning model as pickle file
