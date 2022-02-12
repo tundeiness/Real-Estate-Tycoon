@@ -87,7 +87,10 @@ Task: to build a model to predict transaction prices with an average error of un
 ## Model Training: Building Professional Grade Models
 
 ### Exercise 5.1 - How to spend your Data: data as a limited resource
+- split dataset into separate training and test sets.
 ### Exercise 5.2 - Pre-processing and Pipelines
+- set up preprocessing pipelines.
 ### Exercise 5.3 - Tunning Hyper-parameters
+- tune models using cross-validation.
 ### Exercise 5.4 - Model Selections
-
+- evaluate models, selecting and saving the winner.
