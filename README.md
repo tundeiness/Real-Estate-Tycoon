@@ -76,7 +76,7 @@ Task: to build a model to predict transaction prices with an average error of un
 ### Exercise 4.1 - Checkpoint
 - regression vs Overfitting
 ### Exercise 4.2 - Lasso Regression
-- using regularisation to help select features and shrink coefficients.
+- using regularization to help select features and shrink coefficients.
 
 ### Exercise 4.3 - Ridge Regression
 - how ensembles can improve predictions by committee.
